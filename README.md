@@ -51,7 +51,7 @@ This method allowed for better control over data processing and but not performa
 
 ## 📸 Screenshot
 
-<img src="../public/screenshot-2.png" alt="Heirarchy Screenshot" />
+![plot](./public/screenshot-2.png)
 
 **✅ Best Viewed At 33% Zoom in Browser**  
 Due to the scale of the data, the screenshot and live demo are best viewed with your browser zoom set to **33%**.
