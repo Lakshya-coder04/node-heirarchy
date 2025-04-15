@@ -30,7 +30,7 @@ Each employee node card shows:
 
 While D3 handled layout and interaction well, **connecting lines sometimes become clustered** when expanding deeply nested nodes — a known challenge when mixing D3's layout engine with HTML-based nodes.
 
-## 📸 Screenshot
+## 📸 Screenshot (Screenshots can be found in ./public/sreenshot.png)
 
 <img src="https://github.com/Lakshya-coder04/node-heirarchy/blob/main/public/screenshot.png" />
 
@@ -50,7 +50,7 @@ This method allowed for better control over data processing and but not performa
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot (Screenshots can be found in ./public/sreenshot-2.png)
 
 <img src="https://github.com/Lakshya-coder04/node-heirarchy/blob/main/public/screenshot-2.png" />
 
