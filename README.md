@@ -32,7 +32,7 @@ While D3 handled layout and interaction well, **connecting lines sometimes becom
 
 ## 📸 Screenshot
 
-https://github.com/Lakshya-coder04/node-heirarchy/blob/main/screenshot.png?raw=true
+![plot](./public/screenshot.png)
 ---
 
 ## 🏗️ Method 2 – Engineering-Based Solution (Pure JavaScript) (I wasn't able to create lines between the nodes)
