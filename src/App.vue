@@ -4,6 +4,6 @@ import NodeWorking from './components/Node-working.vue';
 </script>
 
 <template>
-  <NodeWorking />
+  <Heirarchy />
 
 </template>
