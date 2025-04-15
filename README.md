@@ -52,7 +52,7 @@ This method allowed for better control over data processing and but not performa
 
 ## 📸 Screenshot
 
-https://github.com/Lakshya-coder04/node-heirarchy/blob/main/public/screenshot-2.png
+<img src="https://github.com/Lakshya-coder04/node-heirarchy/blob/main/public/screenshot-2.png" />
 
 **✅ Best Viewed At 33% Zoom in Browser**  
 Due to the scale of the data, the screenshot and live demo are best viewed with your browser zoom set to **33%**.
