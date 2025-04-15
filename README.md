@@ -30,9 +30,14 @@ Each employee node card shows:
 
 While D3 handled layout and interaction well, **connecting lines sometimes become clustered** when expanding deeply nested nodes — a known challenge when mixing D3's layout engine with HTML-based nodes.
 
+## 📸 Screenshot
+
+<img src="./screenshot.png" alt="Heirarchy Screenshot" />
 ---
 
 ## 🏗️ Method 2 – Engineering-Based Solution (Pure JavaScript) (I wasn't able to create lines between the nodes)
+
+Files for Method 2: are Heirarchy.vue and display of data is Card.vue
 
 For the second method, I implemented a fully custom solution by:
 1. Creating an `Employee` class for each of the 40,000 individuals.
@@ -46,7 +51,7 @@ This method allowed for better control over data processing and but not performa
 
 ## 📸 Screenshot
 
-<img src="./screenshot.png" alt="Heirarchy Screenshot" />
+<img src="./screenshot-2.png" alt="Heirarchy Screenshot" />
 
 **✅ Best Viewed At 33% Zoom in Browser**  
 Due to the scale of the data, the screenshot and live demo are best viewed with your browser zoom set to **33%**.
