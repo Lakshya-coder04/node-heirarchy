@@ -32,7 +32,7 @@ While D3 handled layout and interaction well, **connecting lines sometimes becom
 
 ## 📸 Screenshot
 
-./public/screenshot.png
+https://github.com/Lakshya-coder04/node-heirarchy/blob/main/public/screenshot.png
 ---
 
 ## 🏗️ Method 2 – Engineering-Based Solution (Pure JavaScript) (I wasn't able to create lines between the nodes)
@@ -51,7 +51,7 @@ This method allowed for better control over data processing and but not performa
 
 ## 📸 Screenshot
 
-![plot](./public/screenshot-2.png)
+https://github.com/Lakshya-coder04/node-heirarchy/blob/main/public/screenshot-2.png
 
 **✅ Best Viewed At 33% Zoom in Browser**  
 Due to the scale of the data, the screenshot and live demo are best viewed with your browser zoom set to **33%**.
